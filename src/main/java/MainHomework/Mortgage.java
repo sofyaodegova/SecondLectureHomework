@@ -5,6 +5,6 @@ public class Mortgage {
         long flatCosts = 3000000;
         double firstPayment = 0.15;
         double money = (flatCosts * firstPayment);
-        System.out.println("Первоначальный взнос по ипотеке " + money + " рублей");
+        System.out.println("Первоначальный взнос по ипотеке " + money + " рублей.");
     }
 }

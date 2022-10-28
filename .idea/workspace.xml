@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1a80c36-0839-4ee4-b491-13f13f286b58" name="Changes" comment="Saruman task added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java" afterDir="false" />
+    <list default="true" id="a1a80c36-0839-4ee4-b491-13f13f286b58" name="Changes" comment="Employees task added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Glass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Employees">
+  <component name="RunManager" selected="Application.Glass">
     <configuration name="Buratino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Buratino" />
       <module name="SecondLectureHomework" />
@@ -56,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Glass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Glass" />
+      <module name="SecondLectureHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Saruman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Saruman" />
       <module name="SecondLectureHomework" />
@@ -65,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Glass" />
         <item itemvalue="Application.Employees" />
         <item itemvalue="Application.Saruman" />
         <item itemvalue="Application.Buratino" />
@@ -101,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666979258437</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Employees task added">
+      <created>1666979682627</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666979682627</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Buratino task added" />
     <MESSAGE value="Saruman task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Saruman task added" />
+    <MESSAGE value="Employees task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Employees task added" />
   </component>
 </project>

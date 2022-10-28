@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1a80c36-0839-4ee4-b491-13f13f286b58" name="Changes" comment="Employees task added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Glass.java" afterDir="false" />
+    <list default="true" id="a1a80c36-0839-4ee4-b491-13f13f286b58" name="Changes" comment="Glass task added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainHomework/AgeOfUniverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Buratino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainHomework/Buratino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainHomework/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Glass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainHomework/Glass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Saruman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainHomework/Saruman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +47,43 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Glass">
+  <component name="RunManager" selected="Application.AgeOfUniverse">
+    <configuration name="AgeOfUniverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainHomework.AgeOfUniverse" />
+      <module name="SecondLectureHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Buratino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buratino" />
+      <option name="MAIN_CLASS_NAME" value="MainHomework.Buratino" />
       <module name="SecondLectureHomework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Employees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employees" />
+      <option name="MAIN_CLASS_NAME" value="MainHomework.Employees" />
       <module name="SecondLectureHomework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Glass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Glass" />
+      <option name="MAIN_CLASS_NAME" value="MainHomework.Glass" />
       <module name="SecondLectureHomework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Saruman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Saruman" />
+      <option name="MAIN_CLASS_NAME" value="MainHomework.Saruman" />
       <module name="SecondLectureHomework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgeOfUniverse" />
         <item itemvalue="Application.Glass" />
         <item itemvalue="Application.Employees" />
         <item itemvalue="Application.Saruman" />
@@ -116,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666979682627</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Glass task added">
+      <created>1666980250908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666980250908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +161,7 @@
     <MESSAGE value="Buratino task added" />
     <MESSAGE value="Saruman task added" />
     <MESSAGE value="Employees task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employees task added" />
+    <MESSAGE value="Glass task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Glass task added" />
   </component>
 </project>

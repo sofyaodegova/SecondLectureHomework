@@ -1,3 +1,5 @@
+package MainHomework;
+
 public class Saruman {
     public static void main(String[] args) {
      int people = 125;

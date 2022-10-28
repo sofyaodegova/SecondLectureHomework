@@ -1,3 +1,5 @@
+package MainHomework;
+
 public class Employees {
     public static void main(String[] args) {
         int progers = 12;

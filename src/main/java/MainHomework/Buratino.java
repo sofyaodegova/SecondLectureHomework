@@ -1,3 +1,5 @@
+package MainHomework;
+
 public class Buratino {
     public static void main(String[] args) {
         int apples = 10;
